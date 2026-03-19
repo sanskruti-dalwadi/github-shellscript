@@ -6,4 +6,7 @@ a= x+y
 b= x-y
 
 #multiplication
+ 
+#division
 
+#persontage
